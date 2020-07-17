@@ -6,6 +6,6 @@ I'am a full stack developer, enthusiatic and passionate about technology. Always
 
 
 - 🔭 I’m currently focused on Node.js, Typescript and React
-- 💻 Some languages I've already play with: Java, C++, Python, Pascal
+- 💻 Some languages I've already played with: Java, C++, Python, Pascal
 - 🗄️ Data Bases: MongoDB, PostgreSQL
 - 👨‍💻 Frameworks and techs: Express, Knex, Webpack, Gulp, Babel, Vue.js and some others you can find in my respositories
